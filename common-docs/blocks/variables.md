@@ -1,4 +1,6 @@
 # Variables
+A _variable_ is a container that has a value.  The value of a variable that can change depending on conditions or other information the provided to the program.
+
 
 [Assign](/blocks/variables/assign) (set) a variable's value
 
